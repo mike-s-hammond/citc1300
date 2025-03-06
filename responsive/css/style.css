@@ -25,8 +25,8 @@ blockquote {
 @media (min-width: 32px) {
     nav {
         background-color: #9A6A22;
-        padding: 5px;
-        margin-top: 10px;
+        padding: 10px;
+        margin: 10px 0 10px;
         text-align: center;
     }
 
